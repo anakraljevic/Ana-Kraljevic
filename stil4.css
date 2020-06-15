@@ -1,0 +1,12 @@
+body{
+	margin: auto;
+	text-align: center;
+	background-color: #fae3a5;
+}
+h1,h2{
+	color: black;
+	font-font-family: Lucida Console, Courier, monospace;
+	font-size: 40px;
+	line-height: 28px;
+	text-align: center;
+}
